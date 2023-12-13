@@ -22,8 +22,9 @@
   "include": [
     "next-env.d.ts",
     "**/*.ts",
-    "**/*.tsx"
-, "pages-sections/LandingPage-Sections/ProductSection.js"  ],
+    "**/*.tsx",
+    // "pages-sections/LandingPage-Sections/ProductSection.js"  
+  ],
   "exclude": [
     "node_modules"
   ]
