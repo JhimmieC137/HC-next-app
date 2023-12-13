@@ -4,7 +4,7 @@ const homePage = () => {
     return ( 
         <div>
             <h1>
-                Hey there!
+                Hey there man!
             </h1>
         </div>
      );
